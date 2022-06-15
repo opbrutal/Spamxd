@@ -9,7 +9,7 @@ RIZ_PIC = ALIVE_PIC if ALIVE_PIC else "https://telegra.ph/file/ba87c58f01a6fcb5e
   
 
           
-rizoel = "✧ 𝑅𝐼𝑍𝑂𝐸𝐿 𝑋 𝑆𝑃𝐴𝑀 𝐼𝑍𝑍 𝐴𝐿𝐼𝑉𝐸𝐸 ✧\n\n"
+rizoel = "✧ Toxic 𝑋 𝑆𝑃𝐴𝑀 𝐼𝑍𝑍 𝐴𝐿𝐼𝑉𝐸𝐸 ✧\n\n"
 
 rizoel += f"┏━━━━━━━━━━━━━━━━━━━\n"
 
@@ -30,11 +30,11 @@ async def alive(event):
                                   caption=rizoel,
                                   buttons=[
         [
-        Button.url("ᴄʜᴀɴɴᴇʟ", "https://t.me/RiZoeLX"),
-        Button.url("sᴜᴘᴘᴏʀᴛ", "https://t.me/DNHxHELL")
+        Button.url("ᴄʜᴀɴɴᴇʟ", "https://t.me/Dangerousfighterchannel"),
+        Button.url("sᴜᴘᴘᴏʀᴛ", "https://t.me/Dangerouschatting")
         ],
         [
-        Button.url("• ʀᴇᴘᴏ •", "https://github.com/MrRizoel/RiZoeLXSpam")
+        Button.url("• ʀᴇᴘᴏ •", "https://github.com/wtftoxicop/Bottokenwalaspambot")
         ]
         ]
         )
