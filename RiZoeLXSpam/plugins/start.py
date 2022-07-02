@@ -11,7 +11,7 @@ RIZ_IMG = ALIVE_PIC if ALIVE_PIC else "https://te.legra.ph/file/33871dabd803ffb9
 Riz_Button = [
         [
         Button.url("AMAN", "https://t.me/A_4_AMAN_OFFICIAL"),
-        Button.url("Dangerous", "https://t.me/s4sahilhacker")
+        Button.url("SAHIL", "https://t.me/s4sahilhacker")
         ],
         [
         Button.url("• ʀᴇᴘᴏ •", "https://github.com/opbrutal/spambot")
