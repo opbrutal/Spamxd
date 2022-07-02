@@ -5,11 +5,11 @@ from telethon.tl.custom import button
 from time import time
 from datetime import datetime
 
-RIZ_PIC = ALIVE_PIC if ALIVE_PIC else "https://telegra.ph/file/ba87c58f01a6fcb5ef512.jpg"
+RIZ_PIC = ALIVE_PIC if ALIVE_PIC else "https://te.legra.ph/file/33871dabd803ffb935781.jpg"
   
 
           
-rizoel = "✧ Toxic 𝑋 𝑆𝑃𝐴𝑀 𝐼𝑍𝑍 𝐴𝐿𝐼𝑉𝐸𝐸 ✧\n\n"
+rizoel = "✧ A4AMAN 𝑋 𝑆𝑃𝐴𝑀 𝐼𝑍𝑍 𝐴𝐿𝐼𝑉𝐸𝐸 ✧\n\n"
 
 rizoel += f"┏━━━━━━━━━━━━━━━━━━━\n"
 
@@ -30,11 +30,11 @@ async def alive(event):
                                   caption=rizoel,
                                   buttons=[
         [
-        Button.url("ᴄʜᴀɴɴᴇʟ", "https://t.me/Dangerousfighterchannel"),
-        Button.url("sᴜᴘᴘᴏʀᴛ", "https://t.me/Dangerouschatting")
+        Button.url("ᴄʜᴀɴɴᴇʟ", "https://t.me/A_4_AMAN_OFFICIAL"),
+        Button.url("sᴜᴘᴘᴏʀᴛ", "https://t.me/A_4_AMAN_OFFICIAL")
         ],
         [
-        Button.url("• ʀᴇᴘᴏ •", "https://github.com/wtftoxicop/Bottokenwalaspambot")
+        Button.url("• ʀᴇᴘᴏ •", "https://github.com/OPBRUTAL/SPAMXR)
         ]
         ]
         )
